@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hernán Guaragna @hernanguaragna from Buenos Aires, Argentina.
-- 👀 I’m interested in JavaScript, React, NodeJS, MySql..
+- 👀 I’m interested in JavaScript, TypeScript, React, NodeJS...
 - 🌱 I’m currently learning Python, React Native and backend with Java and Mongo.
 - 💞️ I’m looking to collaborate on Web 3.0 and block chain.
 - 📫 How to reach me? 
